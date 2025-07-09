@@ -40,3 +40,4 @@ torchrun --nnodes 1 --nproc_per_node 8  --node_rank=0 --master_addr=127.0.0.1 --
     --validation_guidance_scale "1.0" #\
     # --group_frame
     #--use_cpu_offload \
+
